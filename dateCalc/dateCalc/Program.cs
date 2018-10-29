@@ -39,7 +39,7 @@ namespace dateCalc
 
             days = 365 * (yearTwo - yearOne - 1) + leapYear;
 
-            // Calculates all the days from monthOne + 1 to December
+            // Calculates all the days from December to monthOne + 1
             for (int i = 12; i > monthOne; i--)
                 if (i == 2)
                     if ((yearOne % 4 == 0 && yearOne % 100 != 0) || (yearOne % 400 == 0))
