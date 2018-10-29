@@ -1,0 +1,7 @@
+E:\Apps\Visual Studio Projects\dateCalc\dateCalc\bin\Debug\dateCalc.exe.config
+E:\Apps\Visual Studio Projects\dateCalc\dateCalc\bin\Debug\dateCalc.exe
+E:\Apps\Visual Studio Projects\dateCalc\dateCalc\bin\Debug\dateCalc.pdb
+E:\Apps\Visual Studio Projects\dateCalc\dateCalc\obj\Debug\dateCalc.csproj.CoreCompileInputs.cache
+E:\Apps\Visual Studio Projects\dateCalc\dateCalc\obj\Debug\dateCalc.exe
+E:\Apps\Visual Studio Projects\dateCalc\dateCalc\obj\Debug\dateCalc.pdb
+E:\Apps\Visual Studio Projects\dateCalc\dateCalc\obj\Debug\dateCalc.csprojAssemblyReference.cache
