@@ -1,0 +1,7 @@
+E:\Apps\Visual Studio Projects\baze\baze\bin\Debug\baze.exe.config
+E:\Apps\Visual Studio Projects\baze\baze\bin\Debug\baze.exe
+E:\Apps\Visual Studio Projects\baze\baze\bin\Debug\baze.pdb
+E:\Apps\Visual Studio Projects\baze\baze\obj\Debug\baze.csprojAssemblyReference.cache
+E:\Apps\Visual Studio Projects\baze\baze\obj\Debug\baze.csproj.CoreCompileInputs.cache
+E:\Apps\Visual Studio Projects\baze\baze\obj\Debug\baze.exe
+E:\Apps\Visual Studio Projects\baze\baze\obj\Debug\baze.pdb
