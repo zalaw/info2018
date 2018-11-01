@@ -10,6 +10,14 @@ namespace baze
     {
         static void Main(string[] args)
         {
+            /* 
+               ****************************************************
+                
+                NU E GATA IN TOTALITATE + MAI TREBUIE IMBUNATATIRI
+                
+               ****************************************************
+            */
+            
             int _base = 0, _secondBase = 0, length;
             char[] pattern = new char[] { '0', '1', '2', '3', '4', '5', '6', '7', '8', '9',
                                           'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J',
