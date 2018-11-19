@@ -1,0 +1,7 @@
+E:\Apps\Visual Studio Projects\09.10.2018\4\4\bin\Debug\4.exe.config
+E:\Apps\Visual Studio Projects\09.10.2018\4\4\bin\Debug\4.exe
+E:\Apps\Visual Studio Projects\09.10.2018\4\4\bin\Debug\4.pdb
+E:\Apps\Visual Studio Projects\09.10.2018\4\4\obj\Debug\4.csproj.CoreCompileInputs.cache
+E:\Apps\Visual Studio Projects\09.10.2018\4\4\obj\Debug\4.exe
+E:\Apps\Visual Studio Projects\09.10.2018\4\4\obj\Debug\4.pdb
+E:\Apps\Visual Studio Projects\09.10.2018\4\4\obj\Debug\4.csprojAssemblyReference.cache
